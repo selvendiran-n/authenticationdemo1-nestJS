@@ -49,7 +49,7 @@ This is a simple backend application built with **NestJS** for basic authenticat
 
 ## 📁 Folder Structure
 
-```json
+```bash
 
 authenticationdemo1/
 ├── src/
